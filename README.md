@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Enes Koral 👋</h1>
 <p align="center">
-<b>Technology Entrepreneur</b> · Python & Java Developer · Scientific computing & radio propagation
+<b>Technology Entrepreneur</b> · Computer Engineering Student · Python & Java Developer
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 ### 🚀 About Me
 
 - 💡 Technology entrepreneur turning ideas into real-world products
+- 🎓 Computer Engineering student
 - 🔭 Currently working on **Vortex Vision** — HF radio propagation & ray-tracing tooling in Python
 - 🌱 Exploring scientific computing, signal processing and Linux tooling
 - 🤝 Open to partnerships, collaboration and open-source projects
