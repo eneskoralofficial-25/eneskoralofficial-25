@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Enes Koral 👋</h1>
 <p align="center">
-<b>Technology Entrepreneur</b> · Python Developer · Scientific computing & radio propagation
+<b>Technology Entrepreneur</b> · Python & Java Developer · Scientific computing & radio propagation
 </p>
 
 <p align="center">
 <a href="mailto:eneskoralofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/enes-koral-428aab2b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -20,6 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
